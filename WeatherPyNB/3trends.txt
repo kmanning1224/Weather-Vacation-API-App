@@ -1,0 +1,6 @@
+
+Three trends I observed from the data in WeatherPy were:
+ - The Latitude affects the Wind, areas that have a lower latitude seem to have higher wind speeds.
+ - Areas with higher temps were in a range of 20 -  40 Latitude.
+ - There were more cities with a cloudiness grading of over 90 than less.
+ 
